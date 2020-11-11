@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">button</string>
+
+    <string name="text1">Clicked 1</string>
+    <string name="text2">Clicked 2</string>
+    <string name="text3">Clicked 3</string>
+</resources>
